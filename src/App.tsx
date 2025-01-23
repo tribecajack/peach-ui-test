@@ -34,7 +34,7 @@ function App() {
             Experience instant offers & approvals, access to deep liquidity pools, and flexible repayment terms on the most innovative decentralized lending platform            </p>
             <div className="mt-8 flex space-x-4">
               <button className="bg-orange-500 text-white px-8 py-3 rounded-lg hover:bg-orange-600 transition-colors flex items-center">
-                Start Trading <ArrowRight className="ml-2 h-5 w-5" />
+                Deposit Now<ArrowRight className="ml-2 h-5 w-5" />
               </button>
               <button className="border-2 border-orange-500 text-orange-500 px-8 py-3 rounded-lg hover:bg-orange-50 transition-colors">
                 Learn More
@@ -82,7 +82,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">Low Fees</h3>
               <p className="text-gray-600">
-                Competitive trading fees with rewards for active traders.
+              Competitive interest rates with rewards for active lenders and borrowers.
               </p>
             </div>
           </div>
@@ -95,7 +95,7 @@ function App() {
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
               <div className="text-4xl font-bold mb-2">$2.5B+</div>
-              <div className="text-orange-100">Total Trading Volume</div>
+              <div className="text-orange-100">TVL</div>
             </div>
             <div>
               <div className="text-4xl font-bold mb-2">100k+</div>
